@@ -1,0 +1,4 @@
+name: NoItemBurn
+version: 1.0
+main: com.example.NoItemBurn.NoItemBurn
+api-version: 1.16
